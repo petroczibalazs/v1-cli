@@ -1,0 +1,16 @@
+{
+"default": {
+      "color"     : "#ffffff",
+      "bgColor"   : "#1d0642",
+      "height"    : "60px",
+      "lineHeight": "60px",
+      "fontSize"  : "22px"
+    },
+"monte_carlo": {
+      "color"     : "red",
+      "bgColor"   : "#000000",
+      "height"    : "60px",
+      "lineHeight": "60px",
+      "fontSize"  : "22px"
+    }    
+}

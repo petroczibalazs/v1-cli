@@ -1,0 +1,1426 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"> 
+<head>
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+        <xml>
+        <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+      </o:OfficeDocumentSettings>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+        </xml>
+        <![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- [if !mso]><!      -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- <![endif]      -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 12">
+<meta name="Originator" content="Microsoft Word 12">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+
+<!-- [if (gte mso 9)|(IE)]>
+<style type="text/css">
+table {border-collapse: collapse;}
+</style>
+<![endif]      -->
+
+<title></title>
+<style type="text/css">
+/* edima-inliner:v2.0 */
+/* ---------------------------------------------------------
+   -------------------- FIXES JUMP -------------------------
+   ---------------------------------------------------------*/
+.ExternalClass { width: 100%; line-height: 100%; }
+.ReadMsgBody   { width: 100%; }
+body { 
+        -webkit-text-size-adjust: none; 
+        -ms-text-size-adjust    : none;
+        margin                  : 0;
+        padding                 : 0;
+   }
+/* Prevents Webkit and Windows Mobile platforms from changing default font sizes. */
+table,
+td
+ {
+    padding        : 0;
+    margin         : 0;
+    border         : none;
+    border-collapse: collapse;
+    border-spacing : 0;
+    vertical-align : top;
+ }
+img
+ {
+    border                 : 0;
+    outline                : none;
+    text-decoration        : none;
+    -ms-interpolation-mode : bicubic;
+    display                : block;
+    line-height            : 100%;
+ }
+span.yshortcuts
+ {
+    background-color : none;
+    border           : none;
+ }
+span.yshortcuts:hover,
+span.yshortcuts:active,
+span.yshortcuts:focus
+ {
+    background-color : none;
+    border           : none;
+ }
+a, a:link{
+    text-decoration: none;
+}
+/*
+---------------------------------------
+----------- BASIC SETTINGS JUMP -------
+---------------------------------------
+*/
+/* ----- SPECIFIC SETTINGS JUMP ----- */
+.outer        { width: 630px; margin: 0 auto;}
+.narrow-outer { width: 450px; margin: 0 auto;}
+.bg  { background-color : #EBEDEF; }
+.fg  { background-color : #cfd3d8; }
+.fg1 { background-color : #c0c7cd; }
+.fg2 { background-color : #b2bac2; }
+.fg3 { background-color : #a4adb6; }
+.fg4 { background-color : #8894a0; }
+.fg5 { background-color : #6d7a88; }
+.fg6 { background-color : #575964; }
+.fg7 { background-color : #3e3b41; }
+.shout{ background-color: magenta; } 
+/* used to highlight currently edited element */
+/* ----- SPECIFIC SETTINGS JUMP ----- */
+.font  { font-family : arial, sans-serif; }
+.size  { font-size   : 14px;              }
+/* ----- SPECIFIC SETTINGS JUMP ----- */
+.color a,
+.color a:link,
+.color a:visited             { color: #000000;  }
+.color                       { color: #2b2929;  } 
+.color-title,
+.color-title a,
+.color-title a:link, 
+.color-title a:visited,
+.color-subtitle,
+.color-subtitle a,
+.color-subtitle a:link,
+.color-subtitle a:visited    { color: #000000;  }
+.color-preheader a,
+.color-preheader a:link,
+.color-preheader a:visited   { color: #000000;  }
+.color-preheader             { color: #2b2929;  }
+.color-text1 a,
+.color-text1 a:link,
+.color-text1 a:visited       { color: #000000;  }
+.color-text1                 { color: #2b2929;  }
+.color-text2 a,
+.color-text2 a:link,
+.color-text2 a:visited       { color: #000000;  }
+.color-text2                 { color: #2b2929;  }
+.color-text3 a,
+.color-text3 a:link,
+.color-text3 a:visited       { color: #000000;  }
+.color-text3                 { color: #2b2929;  }
+.color-footer a,
+.color-footer a:link,
+.color-footer a:visited       { color: #000000; }
+.color-footer                 { color: #2b2929; }
+.color-social a,
+.color-social a:link,
+.color-social a:visited       { color: #000000; }
+.color-social                 { color: #2b2929; }
+.lnh1_2{
+    line-height: 1.2;
+}
+/*
+---------------------------------------
+----------- COLUMN WIDTHS JUMP --------
+----------- based on 630px outer ------
+---------------------------------------
+*/
+/* SEPARATORS */
+.w30  { width :  30px;  } /* 30px separator */
+.w21  { width :  21px;  } /* 21px separator */
+.w20  { width :  20px;  } /* 20px separator */
+.w16  { width :  16px;  } /* 16px separator */
+.w15  { width :  15px;  } /* 15px separator */
+/*---------------------------------------
+----------- 2 COLUMN STRUCTURES ----------
+----------------------------------------*/ 
+/*  TWO COLUMNS: 1/2 - 1/2 */
+.w315 { width : 315px;   } /* 1/2 column - 1/2 column */
+.w300 { width : 300px;   } /* 1/2 column - 30px separator  - 1/2 column */ 
+.w305 { width : 305px;   } /* 1/2 column - 20px separator  - 1/2 column */
+.w307 { width : 307px;   } /* 1/2 column - 16px separator  - 1/2 column */
+/*  TWO COLUMS: 1/4 - 3/4 */
+        /* without separator */
+.w157 { width : 157px;   } /* 1/4 column */
+.w473 { width : 473px;   } /* 3/4 column */
+        /* 30px separator */
+.w150 { width : 150px;   } /* 1/4 column */
+.w450 { width : 450px;   } /* 3/4 column  */
+        /* 20px separator */
+.w152 { width : 152px; } /* 1/4 column */
+.w458 { width : 458px; } /* 3/4 column */
+       /*  15px separator */
+.w154 { width : 154px; } /* 1/4 column */
+.w462 { width : 462px; } /* 3/4 column */
+/* TWO COLUMNS: 1/3 - 2/3 */
+        /* without separator */
+.w210 { width : 210px; } /* 1/3 column */
+.w420 { width : 420px; } /* 2/3 column */
+        /* 30px separator */
+.w200 { width : 200px; } /* 1/3 column */
+.w400 { width : 400px; } /* 2/3 column */
+        /* 20px separator */
+.w203 { width : 203px; } /* 1/3 column */
+.w407 { width : 407px; } /* 2/3 column */
+       /*  15px separator */
+.w205 { width : 205px; }
+.w410 { width : 410px; }
+/*---------------------------------------
+----------- 3 COLUMN STRUCTURES ----------
+----------------------------------------*/ 
+/*  THREE COLUMS: 1/3 - 1/3 - 1/3 */
+        /* without separator */
+.w210 { width : 210px;  }
+        /* 2db. 30px separator */
+.w190 { width : 190px;  }
+        /* 2db. 21px separator */
+.w196 { width : 196px; }
+       /* 2db. 15px separator */
+.w200 { width : 200px;   }
+/*
+---------------------------------------
+----------- HELPER CLASSES JUMP -------
+---------------------------------------
+*/
+/*TOP PADDINGS JUMP*/
+.top1  { padding-top: 1px;  }
+.top2  { padding-top: 2px;  }
+.top3  { padding-top: 3px;  }
+.top4  { padding-top: 4px;  }
+.top5  { padding-top: 5px;  }
+.top6  { padding-top: 6px;  }
+.top7  { padding-top: 7px;  }
+.top8  { padding-top: 8px;  }
+.top9  { padding-top: 9px;  }
+.top10 { padding-top: 10px; }
+.top11 { padding-top: 11px; }
+.top12 { padding-top: 12px; }
+.top13 { padding-top: 13px; }
+.top14 { padding-top: 14px; }
+.top15 { padding-top: 15px; }
+.top16 { padding-top: 16px; }
+.top17 { padding-top: 17px; }
+.top18 { padding-top: 18px; }
+.top19 { padding-top: 19px; }
+.top20 { padding-top: 20px; }
+.top21 { padding-top: 21px; }
+.top22 { padding-top: 22px; }
+.top23 { padding-top: 23px; }
+.top24 { padding-top: 24px; }
+.top25 { padding-top: 25px; }
+.top26 { padding-top: 26px; }
+.top27 { padding-top: 27px; }
+.top28 { padding-top: 28px; }
+.top29 { padding-top: 29px; }
+.top30 { padding-top: 30px; }
+.top31 { padding-top: 31px; }
+.top32 { padding-top: 32px; }
+.top33 { padding-top: 33px; }
+.top34 { padding-top: 34px; }
+.top35 { padding-top: 35px; }
+.top36 { padding-top: 36px; }
+.top37 { padding-top: 37px; }
+.top38 { padding-top: 38px; }
+.top39 { padding-top: 39px; }
+.top40 { padding-top: 40px; }
+.top45 { padding-top: 45px; }
+.top50 { padding-top: 50px; }
+.top55 { padding-top: 55px; }
+.top60 { padding-top: 60px; }
+/*BOTTOM PADDINGS JUMP*/
+.bottom1  { padding-bottom: 1px;  }
+.bottom2  { padding-bottom: 2px;  }
+.bottom3  { padding-bottom: 3px;  }
+.bottom4  { padding-bottom: 4px;  }
+.bottom5  { padding-bottom: 5px;  }
+.bottom6  { padding-bottom: 6px;  }
+.bottom7  { padding-bottom: 7px;  }
+.bottom8  { padding-bottom: 8px;  }
+.bottom9  { padding-bottom: 9px;  }
+.bottom10 { padding-bottom: 10px; }
+.bottom11 { padding-bottom: 11px; }
+.bottom12 { padding-bottom: 12px; }
+.bottom13 { padding-bottom: 13px; }
+.bottom14 { padding-bottom: 14px; }
+.bottom15 { padding-bottom: 15px; }
+.bottom16 { padding-bottom: 16px; }
+.bottom17 { padding-bottom: 17px; }
+.bottom18 { padding-bottom: 18px; }
+.bottom19 { padding-bottom: 19px; }
+.bottom20 { padding-bottom: 20px; }
+.bottom21 { padding-bottom: 21px; }
+.bottom22 { padding-bottom: 22px; }
+.bottom23 { padding-bottom: 23px; }
+.bottom24 { padding-bottom: 24px; }
+.bottom25 { padding-bottom: 25px; }
+.bottom26 { padding-bottom: 26px; }
+.bottom27 { padding-bottom: 27px; }
+.bottom28 { padding-bottom: 28px; }
+.bottom29 { padding-bottom: 29px; }
+.bottom30 { padding-bottom: 30px; }
+.bottom31 { padding-bottom: 31px; }
+.bottom32 { padding-bottom: 32px; }
+.bottom33 { padding-bottom: 33px; }
+.bottom34 { padding-bottom: 34px; }
+.bottom35 { padding-bottom: 35px; }
+.bottom36 { padding-bottom: 36px; }
+.bottom37 { padding-bottom: 37px; }
+.bottom38 { padding-bottom: 38px; }
+.bottom39 { padding-bottom: 39px; }
+.bottom40 { padding-bottom: 40px; }
+.bottom45 { padding-bottom: 45px; }
+.bottom50 { padding-bottom: 50px; }
+.bottom55 { padding-bottom: 55px; }
+.bottom60 { padding-bottom: 60px; }
+/*LEFT PADDINGS JUMP*/
+.left1  { padding-left: 1px;  }
+.left2  { padding-left: 2px;  }
+.left3  { padding-left: 3px;  }
+.left4  { padding-left: 4px;  }
+.left5  { padding-left: 5px;  }
+.left6  { padding-left: 6px;  }
+.left7  { padding-left: 7px;  }
+.left8  { padding-left: 8px;  }
+.left9  { padding-left: 9px;  }
+.left10 { padding-left: 10px; }
+.left11 { padding-left: 11px; }
+.left12 { padding-left: 12px; }
+.left13 { padding-left: 13px; }
+.left14 { padding-left: 14px; }
+.left15 { padding-left: 15px; }
+.left16 { padding-left: 16px; }
+.left17 { padding-left: 17px; }
+.left18 { padding-left: 18px; }
+.left19 { padding-left: 19px; }
+.left20 { padding-left: 20px; }
+.left21 { padding-left: 21px; }
+.left22 { padding-left: 22px; }
+.left23 { padding-left: 23px; }
+.left24 { padding-left: 24px; }
+.left25 { padding-left: 25px; }
+.left26 { padding-left: 26px; }
+.left27 { padding-left: 27px; }
+.left28 { padding-left: 28px; }
+.left29 { padding-left: 29px; }
+.left30 { padding-left: 30px; }
+.left31 { padding-left: 31px; }
+.left32 { padding-left: 32px; }
+.left33 { padding-left: 33px; }
+.left34 { padding-left: 34px; }
+.left35 { padding-left: 35px; }
+.left36 { padding-left: 36px; }
+.left37 { padding-left: 37px; }
+.left38 { padding-left: 38px; }
+.left39 { padding-left: 39px; }
+.left40 { padding-left: 40px; }
+.left45 { padding-left: 45px; }
+.left50 { padding-left: 50px; }
+.left55 { padding-left: 55px; }
+.left60 { padding-left: 60px; }
+/*RIGHT PADDINGS JUMP*/
+.right1  { padding-right: 1px;  }
+.right2  { padding-right: 2px;  }
+.right3  { padding-right: 3px;  }
+.right4  { padding-right: 4px;  }
+.right5  { padding-right: 5px;  }
+.right6  { padding-right: 6px;  }
+.right7  { padding-right: 7px;  }
+.right8  { padding-right: 8px;  }
+.right9  { padding-right: 9px;  }
+.right10 { padding-right: 10px; }
+.right11 { padding-right: 11px; }
+.right12 { padding-right: 12px; }
+.right13 { padding-right: 13px; }
+.right14 { padding-right: 14px; }
+.right15 { padding-right: 15px; }
+.right16 { padding-right: 16px; }
+.right17 { padding-right: 17px; }
+.right18 { padding-right: 18px; }
+.right19 { padding-right: 19px; }
+.right20 { padding-right: 20px; }
+.right21 { padding-right: 21px; }
+.right22 { padding-right: 22px; }
+.right23 { padding-right: 23px; }
+.right24 { padding-right: 24px; }
+.right25 { padding-right: 25px; }
+.right26 { padding-right: 26px; }
+.right27 { padding-right: 27px; }
+.right28 { padding-right: 28px; }
+.right29 { padding-right: 29px; }
+.right30 { padding-right: 30px; }
+.right31 { padding-right: 31px; }
+.right32 { padding-right: 32px; }
+.right33 { padding-right: 33px; }
+.right34 { padding-right: 34px; }
+.right35 { padding-right: 35px; }
+.right36 { padding-right: 36px; }
+.right37 { padding-right: 37px; }
+.right38 { padding-right: 38px; }
+.right39 { padding-right: 39px; }
+.right40 { padding-right: 40px; }
+.right45 { padding-right: 45px; }
+.right50 { padding-right: 50px; }
+.right55 { padding-right: 55px; }
+.right60 { padding-right: 60px; }
+/*LEFT - RIGHT PADDINGS JUMP*/
+.pad1  { padding-left: 1px;  padding-right: 1px;  }
+.pad2  { padding-left: 2px;  padding-right: 2px;  }
+.pad3  { padding-left: 3px;  padding-right: 3px;  }
+.pad4  { padding-left: 4px;  padding-right: 4px;  }
+.pad5  { padding-left: 5px;  padding-right: 5px;  }
+.pad6  { padding-left: 6px;  padding-right: 6px;  }
+.pad7  { padding-left: 7px;  padding-right: 7px;  }
+.pad8  { padding-left: 8px;  padding-right: 8px;  }
+.pad9  { padding-left: 9px;  padding-right: 9px;  }
+.pad10 { padding-left: 10px; padding-right: 10px; }
+.pad11 { padding-left: 11px; padding-right: 11px; }
+.pad12 { padding-left: 12px; padding-right: 12px; }
+.pad13 { padding-left: 13px; padding-right: 13px; }
+.pad14 { padding-left: 14px; padding-right: 14px; }
+.pad15 { padding-left: 15px; padding-right: 15px; }
+.pad16 { padding-left: 16px; padding-right: 16px; }
+.pad17 { padding-left: 17px; padding-right: 17px; }
+.pad18 { padding-left: 18px; padding-right: 18px; }
+.pad19 { padding-left: 19px; padding-right: 19px; }
+.pad20 { padding-left: 20px; padding-right: 20px; }
+.pad21 { padding-left: 21px; padding-right: 21px; }
+.pad22 { padding-left: 22px; padding-right: 22px; }
+.pad23 { padding-left: 23px; padding-right: 23px; }
+.pad24 { padding-left: 24px; padding-right: 24px; }
+.pad25 { padding-left: 25px; padding-right: 25px; }
+.pad26 { padding-left: 26px; padding-right: 26px; }
+.pad27 { padding-left: 27px; padding-right: 27px; }
+.pad28 { padding-left: 28px; padding-right: 28px; }
+.pad29 { padding-left: 29px; padding-right: 29px; }
+.pad30 { padding-left: 30px; padding-right: 30px; }
+.pad31 { padding-left: 31px; padding-right: 31px; }
+.pad32 { padding-left: 32px; padding-right: 32px; }
+.pad33 { padding-left: 33px; padding-right: 33px; }
+.pad34 { padding-left: 34px; padding-right: 34px; }
+.pad35 { padding-left: 35px; padding-right: 35px; }
+.pad36 { padding-left: 36px; padding-right: 36px; }
+.pad37 { padding-left: 37px; padding-right: 37px; }
+.pad38 { padding-left: 38px; padding-right: 38px; }
+.pad39 { padding-left: 39px; padding-right: 39px; }
+.pad40 { padding-left: 40px; padding-right: 40px; }
+.pad45 { padding-left: 45px; padding-right: 45px; }
+.pad50 { padding-left: 50px; padding-right: 50px; }
+.pad55 { padding-left: 55px; padding-right: 55px; }
+.pad60 { padding-left: 60px; padding-right: 60px; }
+/* FONT SIZES JUMP */
+/* .size0  { font-size : 0;  } --  this is a special rule that 
+* makes white space between column divs not to render at all
+*/
+.size0  { font-size : 0;  }
+.size8  { font-size : 8px;  }
+.size9  { font-size : 9px;  }
+.size10 { font-size : 10px; }
+.size11 { font-size : 11px; }
+.size12 { font-size : 12px; }
+.size13 { font-size : 13px; }
+.size14 { font-size : 14px; }
+.size15 { font-size : 15px; }
+.size16 { font-size : 16px; }
+.size17 { font-size : 17px; }
+.size18 { font-size : 18px; }
+.size19 { font-size : 19px; }
+.size20 { font-size : 20px; }
+.size21 { font-size : 21px; }
+.size22 { font-size : 22px; }
+.size23 { font-size : 23px; }
+.size24 { font-size : 24px; }
+.size25 { font-size : 25px; }
+.size26 { font-size : 26px; }
+.size27 { font-size : 27px; }
+.size28 { font-size : 28px; }
+.size29 { font-size : 29px; }
+.size30 { font-size : 30px; }
+/*BORDER JUMP*/
+.brd-b     { border-bottom        : 1px solid #000; }
+.brd-b--w1 { border-bottom-width  : 1px;              }
+.brd-b--w2 { border-bottom-width  : 2px;              }
+.brd-b--c  { border-bottom-color  : #000;           }
+.brd-t     { border-top           : 1px solid #000; }
+.brd-t--w1 { border-top-width     : 1px;              }
+.brd-t--w2 { border-top-width     : 2px;              }
+.brd-t--c  { border-bottom-color  : #000;           }
+.brd-l     { border-left          : 1px solid #000; }
+.brd-l--w1 { border-left-width    : 1px;              }
+.brd-l--w2 { border-left-width    : 2px;              }
+.brd-l--c  { border-left-color    : #000;           }
+.brd-r     { border-right         : 1px solid #000; }
+.brd-r--w1 { border-right-width   : 1px;              }
+.brd-r--w2 { border-right-width   : 2px;              }
+.brd-r--c  { border-right-color   : #000;           }
+/*DISPLAY JUMP*/
+.block        { display : block !important;        }
+.inline-block { display : inline-block !important; }
+.inline       { display : inline !important;       }
+/*TEXT-ALIGN JUMP*/
+.left    { text-align : left;    }
+.center  { text-align : center;  }
+.right   { text-align : right;   }
+.justify { text-align : justify; }
+/*VERTICAL-ALIGN JUMP*/
+.top      { vertical-align : top;      }
+.middle   { vertical-align : middle;   }
+.bottom   { vertical-align : bottom;   }
+.baseline { vertical-align : baseline; }
+ /*OTHER HELPERS JUMP*/
+.w100p        { width           : 100%;      }
+.bold         { font-weight     : bold;      }
+.underline    { text-decoration : underline; }
+.noDecor      { text-decoration : none;      }
+.margin-auto  { margin          : 0 auto;    }
+.nowrap       { white-space     : nowrap;    }
+ /*SPACERS JUMP*/
+.spacer1  { line-height :  1px; height :  1px;  }
+.spacer2  { line-height :  2px; height :  2px;  }
+.spacer3  { line-height :  3px; height :  3px;  }
+.spacer4  { line-height :  4px; height :  4px;  }
+.spacer5  { line-height :  5px; height :  5px;  }
+.spacer6  { line-height :  6px; height :  6px;  }
+.spacer7  { line-height :  7px; height :  7px;  }
+.spacer8  { line-height :  8px; height :  8px;  }
+.spacer9  { line-height :  9px; height :  9px;  }
+.spacer10 { line-height : 10px; height : 10px;  }
+.spacer11 { line-height : 11px; height : 11px;  }
+.spacer12 { line-height : 12px; height : 12px;  }
+.spacer13 { line-height : 13px; height : 13px;  }
+.spacer14 { line-height : 14px; height : 14px;  }
+.spacer15 { line-height : 15px; height : 15px;  }
+.spacer16 { line-height : 16px; height : 16px;  }
+.spacer17 { line-height : 17px; height : 17px;  }
+.spacer18 { line-height : 18px; height : 18px;  }
+.spacer19 { line-height : 19px; height : 19px;  }
+.spacer20 { line-height : 20px; height : 20px;  }
+.spacer21 { line-height : 21px; height : 21px;  }
+.spacer22 { line-height : 22px; height : 22px;  }
+.spacer23 { line-height : 23px; height : 23px;  }
+.spacer24 { line-height : 24px; height : 24px;  }
+.spacer25 { line-height : 25px; height : 25px;  }
+.spacer26 { line-height : 26px; height : 26px;  }
+.spacer27 { line-height : 27px; height : 27px;  }
+.spacer28 { line-height : 28px; height : 28px;  }
+.spacer29 { line-height : 29px; height : 29px;  }
+.spacer30 { line-height : 30px; height : 30px;  }
+.spacer31 { line-height : 31px; height : 31px;  }
+.spacer32 { line-height : 32px; height : 32px;  }
+.spacer33 { line-height : 33px; height : 33px;  }
+.spacer34 { line-height : 34px; height : 34px;  }
+.spacer35 { line-height : 35px; height : 35px;  }
+.spacer36 { line-height : 36px; height : 36px;  }
+.spacer37 { line-height : 37px; height : 37px;  }
+.spacer38 { line-height : 38px; height : 38px;  }
+.spacer39 { line-height : 39px; height : 39px;  }
+.spacer40 { line-height : 40px; height : 40px;  }
+.spacer45 { line-height : 45px; height : 45px;  }
+.spacer50 { line-height : 50px; height : 50px;  }
+.spacer55 { line-height : 55px; height : 55px;  }
+.spacer60 { line-height : 60px; height : 60px;  }
+/* ----------------------------------------------
+-------DEFAULT MEDIA QUERY RULES JUMP------------
+-----------------------------------------------*/
+/* ----- SPECIFIC SETTINGS JUMP ----- */
+ @media screen and (max-width: 629px){
+.outer{
+    width: 100% !important;
+}
+.narrow-outer{
+    width: 100% !important;
+}
+.hide {
+display: none !important;
+}
+/* .toSomething RULES - ALWAYS CHANGE SOME VALUE TO ANOTHER VALUE OTHER THAN ZERO */
+.to100p {
+width: 100% !important;
+}
+.toCenter {
+text-align: center !important;
+}
+.toLeft {
+text-align: left !important;
+}
+.toRight {
+text-align: right !important;
+}
+.toJustify {
+text-align: justify !important;
+}
+/* RESPONSIVE IMG CLASSES */
+img.iauto { 
+height:auto !important;
+max-width:100% !important;
+width:auto !important;
+}
+img.i100 {
+height:auto !important;
+width:100% !important;
+max-width:100px !important;
+}
+img.i150 {
+height:auto !important;
+width:100% !important;
+max-width:150px !important;
+}
+img.i200 {
+height:auto !important;
+width:100% !important;
+max-width:200px !important;
+}
+img.i300 {
+height:auto !important;
+width:100% !important;
+max-width:300px !important;
+}
+img.i350 {
+height:auto !important;
+width:100% !important;
+max-width:350px !important;
+}
+img.i400 {
+height:auto !important;
+width:100% !important;
+max-width:400px !important;
+}
+img.i500 {
+height:auto !important;
+width:100% !important;
+max-width:500px !important;
+}
+img.i600 {
+height:auto !important;
+width:100% !important;
+max-width:600px !important;
+}
+/* RESETS RULES - ALWAYS CHANGE SOME VALUE TO ZERO - OR AUTO */
+.resetHeight {
+height: auto !important;
+}
+.resetWidth {
+width: auto !important;
+}
+.resetPad {
+padding-left : 0 !important;
+padding-right: 0 !important;
+}
+.resetLeft {
+padding-left: 0 !important;
+}
+.resetRight {
+padding-right: 0 !important;
+}
+.resetTop {
+padding-top: 0 !important;
+}
+.resetBottom {
+padding-bottom: 0 !important;
+}
+.resetSpacer {
+height: 0 !important;
+line-height: 0 !important;
+font-size: 0 !important;
+}
+}
+</style>
+ 
+
+<style type="text/css" ignore="1">
+  .w200 {
+    max-width: 200px;
+  }
+  .w294 {
+    max-width: 294px;
+  }
+  .w80 {
+    max-width: 80px;
+  }
+  .w109 {
+    max-width: 109px;
+  }
+  .w147 {
+    max-width: 147px;
+  }
+  .w415 {
+    max-width: 415px;
+  }
+  .w215 {
+    max-width: 215px;
+  }
+  .w315 {
+    max-width: 315px;
+  }
+</style>
+<style type="text/css>
+td.w109,
+td.w147,
+td.w200,
+td.w215,
+td.w294,
+td.w315,
+td.w415,
+td.w80 {
+  vertical-align: top;
+}
+.LibID_008_001_DIV .bg,
+.LibID_008_001_DIV.bg,
+.libid_010_001_DIV .bg,
+.libid_010_001_DIV.bg,
+.libid_011_001_DIV .bg,
+.libid_011_001_DIV.bg,
+.libid_012_001_DIV .bg,
+.libid_012_001_DIV.bg,
+.libid_013_001_DIV .bg,
+.libid_013_001_DIV.bg {
+  background-color: #ebedef;
+}
+.LibID_008_001_DIV .fg,
+.LibID_008_001_DIV.fg,
+.libid_010_001_DIV .fg,
+.libid_010_001_DIV.fg,
+.libid_011_001_DIV .fg,
+.libid_011_001_DIV.fg,
+.libid_012_001_DIV .fg,
+.libid_012_001_DIV.fg,
+.libid_013_001_DIV .fg,
+.libid_013_001_DIV.fg {
+  background-color: #cfd3d8;
+}
+.LibID_008_001_DIV .fg1,
+.LibID_008_001_DIV.fg1,
+.libid_010_001_DIV .fg1,
+.libid_010_001_DIV.fg1,
+.libid_011_001_DIV .fg1,
+.libid_011_001_DIV.fg1,
+.libid_012_001_DIV .fg1,
+.libid_012_001_DIV.fg1,
+.libid_013_001_DIV .fg1,
+.libid_013_001_DIV.fg1 {
+  background-color: #c0c7cd;
+}
+.LibID_008_001_DIV .fg2,
+.LibID_008_001_DIV.fg2,
+.libid_010_001_DIV .fg2,
+.libid_010_001_DIV.fg2,
+.libid_011_001_DIV .fg2,
+.libid_011_001_DIV.fg2,
+.libid_012_001_DIV .fg2,
+.libid_012_001_DIV.fg2,
+.libid_013_001_DIV .fg2,
+.libid_013_001_DIV.fg2 {
+  background-color: #b2bac2;
+}
+.LibID_008_001_DIV .fg3,
+.LibID_008_001_DIV.fg3,
+.libid_010_001_DIV .fg3,
+.libid_010_001_DIV.fg3,
+.libid_011_001_DIV .fg3,
+.libid_011_001_DIV.fg3,
+.libid_012_001_DIV .fg3,
+.libid_012_001_DIV.fg3,
+.libid_013_001_DIV .fg3,
+.libid_013_001_DIV.fg3 {
+  background-color: #a4adb6;
+}
+.libid_011_001_DIV .applyHeight,
+.libid_011_001_TD .applyHeight,
+.libid_012_001_DIV .applyHeight,
+.libid_012_001_TD .applyHeight,
+.libid_013_001_DIV .applyHeight,
+.libid_013_001_TD .applyHeight {
+  height: 80px;
+}
+.lnh47 {
+  line-height: 47px;
+}
+.size45 {
+  font-size: 45px;
+}
+td.w200 {
+  width: 200px;
+}
+div.w109,
+div.w147,
+div.w200,
+div.w215,
+div.w294,
+div.w315,
+div.w415,
+div.w80 {
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+}
+.libid_010_001_DIV .applyHeight,
+.libid_010_001_TD .applyHeight {
+  height: 300px;
+}
+.brd-t--w4 {
+  border-top-width: 4px !important;
+}
+.LibID_008_001_DIV .fg4,
+.LibID_008_001_DIV.fg4 {
+  background-color: #8894a0;
+}
+.LibID_008_001_DIV .fg5,
+.LibID_008_001_DIV.fg5 {
+  background-color: #6d7a88;
+}
+td.w294 {
+  width: 294px;
+}
+td.w80 {
+  width: 80px;
+}
+td.w109 {
+  width: 109px;
+}
+td.w147 {
+  width: 147px;
+}
+.width12 {
+  width: 12px;
+}
+.lnh1 {
+  line-height: 1;
+}
+td.w415 {
+  width: 415px;
+}
+td.w215 {
+  width: 215px;
+}
+.lnh22 {
+  line-height: 22px;
+}
+.top62 {
+  padding-top: 62px;
+}
+td.w315 {
+  width: 315px;
+}
+.size0 {
+  font-size: 0;
+}
+@media screen and (max-width:629px) {
+  .toPad4 {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+  }
+  .w109,
+  .w147,
+  .w200,
+  .w215,
+  .w294,
+  .w315,
+  .w415,
+  .w80 {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .toTable {
+    display: table !important;
+    width: 100%;
+  }
+  .toStackTop {
+    display: table-header-group !important;
+    width: 100%;
+  }
+  .toStackBottom {
+    display: table-footer-group !important;
+    width: 100%;
+  }
+  .toStackBetween {
+    display: table-row-group !important;
+    width: 100%;
+  }
+  .toleft10 {
+    padding-left: 10px !important;
+  }
+  .container {
+    display: table;
+    width: 100%;
+  }
+  .order1 {
+    display: table-header-group;
+  }
+  .order4 {
+    display: table-footer-group;
+  }
+  .order2,
+  .order3 {
+    display: table-row-group;
+  }
+  .toPad8 {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+  .toLeft20,
+  .toPad20 {
+    padding-left: 20px !important;
+  }
+  .toPad20 {
+    padding-right: 20px !important;
+  }
+  .toTop15 {
+    padding-top: 15px !important;
+  }
+  .toBottom10 {
+    padding-bottom: 10px !important;
+  }
+  .toTop10 {
+    padding-top: 10px !important;
+  }
+  .toTop20 {
+    padding-top: 20px !important;
+  }
+}
+</style>
+<meta name="edima-json" selector=".w200" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 200px {% else %} auto {% endif %}" /> 
+<meta name="edima-json" selector=".w294" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 294px {% else %} auto {% endif %}" /> 
+<meta name="edima-json" selector=".w80" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 80px {% else %} auto {% endif %}" /> 
+<meta name="edima-json" selector=".w109" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 109px {% else %} auto {% endif %}" /> 
+<meta name="edima-json" selector=".w147" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 147px {% else %} auto {% endif %}" /> 
+<meta name="edima-json" selector=".w415" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 415px {% else %} auto {% endif %}" /> 
+<meta name="edima-json" selector=".w215" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 215px {% else %} auto {% endif %}" /> 
+<meta name="edima-json" selector=".w315" prop="max-width" value="{% if (edima_domain == 'freemail.hu' or edima_domain == 'citromail.hu' or edima_domain == 'onbox.hu') %} 315px {% else %} auto {% endif %}" />
+<!--
+ <link rel="stylesheet" href="css/style.css">
+-->
+
+</head>
+<body class="lnh1_2" yahoo="fix" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" offset="0">
+<div class="lnh1_2 helper">
+<div class="ed-container">
+<section data-elem="marker" style="height: 60px; line-height: 60px; color: #ffffff; background-color: #1d0642; text-align:center; ">
+  <span style="font-size: 22px; vertical-align: middle;">libid_013_001</span>
+  </section>
+<table class="w100p bg libid_013_001_DIV bg">
+<!-- libid_013_001-2OSZL-BALKEP-JOBBRA-KOZEPEN-SZOV -- KÉTHASÁBOS BALRA KÉP + JOBBRA  NAGYBETŰS CÍMSOROK JUMP-->
+    <tr>
+      <td class="pad8 top10 bottom10 bg">
+        <center>
+          <div class="bg" align="center">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" class="outer fg">
+              <tr>
+                <td align="center" class="fg size0">
+                  <!--[if (gte mso 9)|(IE)|(mso 16)]>
+  <table class="outer fg" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr><td valign="top" class="w300 fg1 applyHeight resetHeight" style="width: 300px">
+  <![endif]-->
+                  <div class="w315 fg1 top">
+                    <table cellspacing="0" cellpadding="0" border="0" class="w100p fg1 applyHeight resetHeight">
+                      <tr>
+                        <td class="pad15 top15 bottom15 resetPad resetTop">
+                          <center>
+                            <div align="center">
+                              <img src="ba-kan.cs__013_001.png"
+                                class="block w100p" border="0" />
+                            </div>
+                          </center>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!--[if (gte mso 9)|(IE)|(mso 16)]>
+    </td><td valign="top" class="w315 fg2 applyHeight resetHeight" style="width: 315px">
+    <![endif]-->
+                  <div class="w315 fg2 top">
+                    <table cellspacing="0" cellpadding="0" border="0" class="w100p fg2 applyHeight resetHeight">
+                      <tr>
+                        <td class="pad15 bottom15 top30 resetTop fg2">
+                          <table class="w100p">
+                            <tr>
+                              <td class="font size25 color-subtitle left toCenter">
+                                <a href="#" target="_blank" class="color-subtitle">
+                                  <span class="color-subtitle">
+                                    Gxiavoje kaj. Ja ja
+                                  </span>
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td class="font size45 color-title left toCenter lnh47">
+                                <a href="#" target="_blank" class="color-title">
+                                  <span class="color-title">
+                                    Sus.
+                                  </span>
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td class="font size45 color-title left toCenter lnh47">
+                                <a href="#" target="_blank" class="color-title">
+                                  <span class="color-title">
+                                    Kiel la! A magnum csendje!
+                                  </span>
+                                </a>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!--[if (gte mso 9)|(IE)|(mso 16)]>
+  </td></tr></table>
+  <![endif]-->
+                </td>
+              </tr>
+            </table>
+          </div>
+        </center>
+      </td>
+    </tr>
+    <tr>
+      <td class="spacer8 bg">&nbsp;</td>
+    </tr>
+    <!-- libid_013_001-2OSZL-BALKEP-JOBBRA-KOZEPEN-SZOV -- KÉTHASÁBOS BALRA KÉP + JOBBRA  NAGYBETŰS CÍMSOROK VÉGE -->
+  </table>
+<section data-elem="marker" style="height: 60px; line-height: 60px; color: #ffffff; background-color: #1d0642; text-align:center; ">
+  <span style="font-size: 22px; vertical-align: middle;">libid_010_001</span>
+  </section>
+<table class="w100p bg libid_010_001_DIV">
+<!-- libid_010_001-3OSZL-KEPES-CIKK -- HÁROMOSZLOPOS, SZUPER- ÁRAS TERMÉKAJÁNLÓ JUMP -->
+      <tr>
+        <td class="top10 bottom10">
+          <center>
+            <div class="bg" align="center">
+              <table class="outer bg">
+                <tr>
+                  <td class="size0 toTable bg">
+                    <!--[if (gte mso 9)|(IE)|(mso 16)]>
+     <table class="outer fg" cellspacing="0" cellpadding="0" border="0" align="center">
+      <tr><td valign="top" class="w215 fg applyHeight resetHeight" style="width: 215px">
+     <![endif]-->
+                    <div class="w215 top toBottom">
+                      <table class="w100p top">
+                        <tr>
+                          <td class="right15 resetPad">
+                            <table class="w100p top">
+                              <tr>
+                                <td class="bottom20 pad10 fg1 brd-t brd-t--w4 applyHeight resetHeight">
+                                  <table cellspacing="0" cellpadding="0" border="0" class="w100p fg1" align="center">
+                                    <tr>
+                                      <td class="center top15">
+                                        <a href="#">
+                                          <img src="crocus__010_001.jpg"
+                                            class="block w100p" border="0" /></a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size16 top16 bottom15 color-title left">
+                                        1. OSZLOP
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size14 color left toJustify">
+                                        <span>
+                                          AZ ELSŐ OSZLOP TARTALMA.
+                                        </span>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size14 color-text2 toTop10 toRight">
+                                        <span class="bold size14 color-text2">
+                                          DIV -ES SZERKEZET
+                                        </span>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size30 top15 resetTop color-text2 right">
+                                        12 Ft
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)|(mso 16)]>
+    </td><td valign="top" class="w215 fg2" style="width: 215px">
+    <![endif]-->
+                    <div class="w215 top toRowGroup">
+                      <table cellspacing="0" cellpadding="0" border="0" class="w100p top">
+                        <tr>
+                          <td class="right15 bottom15 resetPad">
+                            <table class="w100p top">
+                              <tr>
+                                <td class="fg2 top pad10 bottom20 brd-t brd-t--w4 applyHeight resetHeight ">
+                                  <table cellspacing="0" cellpadding="0" border="0" class="w100p fg2" align="center">
+                                    <tr>
+                                      <td class="center top15">
+                                        <a href="#">
+                                          <img src="jacint__010_001.jpg"
+                                            class="block w100p" border="0" /></a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size16 top16 bottom15 color-title left">
+                                        2. OSZLOP
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size14 color left toJustify">
+                                        <span>
+                                          A 2. OSZLOP TARTALMA.
+                                        </span>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size14 color-text1 toTop10 toRight">
+                                        <span class="bold size14 color-text1">
+                                          DIV -S SZERKEZET
+                                        </span>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size30 top15 resetTop color-text2 right">
+                                        33 Ft
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)|(mso 16)]>
+    </td><td valign="top" class="w200 fg2" style="width: 200px">
+    <![endif]-->
+                    <div class="w200 top toTop">
+                      <table class="w100p">
+                        <tr>
+                          <td>
+                            <table class="w100p top">
+                              <tr>
+                                <td class="bottom20 pad10 fg3 brd-t brd-t--w4 applyHeight resetHeight">
+                                  <table cellspacing="0" cellpadding="0" border="0" class="w100p" align="center">
+                                    <tr>
+                                      <td class="center top15">
+                                        <a href="#">
+                                          <img src="snowdrop__010_001.jpg"
+                                            class="block w100p" border="0" /></a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size16 top16 bottom15 color-title left">
+                                        3. OSZLOP
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size14 color left toJustify">
+                                        <span>
+                                          A 3. OSZLOP TARTALMA
+                                        </span>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size14 color-text1 toTop10 toRight">
+                                        <span class="bold size14 color-text2">
+                                          DIV-S SZERKEZET
+                                        </span>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size30 top15 resetTop color-text2 right">
+                                        100 Ft
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)|(mso 16)]>
+     </td></tr></table>
+     <![endif]-->
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </center>
+        </td>
+      </tr>
+      <!-- libid_010_001-3OSZL-KEPES-CIKK -- HÁROMOSZLOPOS, SZUPER- ÁRAS TERMÉKAJÁNLÓ VÉGE -->
+    </table>
+<section data-elem="marker" style="height: 60px; line-height: 60px; color: #ffffff; background-color: #1d0642; text-align:center; ">
+  <span style="font-size: 22px; vertical-align: middle;">libid_008_001</span>
+  </section>
+<table class="libid_008_001_DIV w100p bg">
+<!-- libid_008_001-ALSO-CONTACT-SOR -- ALSÓ KONTAKT SOR JUMP -->
+ <tr>
+  <td class="bg">
+   <center>
+    <div align="center">
+     <table cellspacing="0" cellpadding="0" border="0" align="center" class="fg outer">
+      <tr>
+        <td class="top10 bottom10 fg toPad8">
+         <table class="w100p">
+         <tr>
+            <td class="size0">
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+<table class="outer fg" cellspacing="0" cellpadding="0" border="0" align="center" style="width: 630px">
+ <tr><td valign="top" class="w294 fg" style="width: 294px">
+<![endif]-->
+            <div class="w294 fg1">
+                <table class="w100p fg1">
+                    <tr>
+                     <td valign="top" class="fg1 left left10 resetPad size12 color font middle">
+                       <span class="color-text1 inline-block middle"><span class="color-text1 middle">
+                          <img class="inline width12 baseline lnh1 size0" src="arrows-button.png" width="12" height="10" alt="" />&nbsp;&nbsp;</span><span class="color-text1 bold middle">K&amp;H&nbsp;TeleCenter (06 1/20/30/70) 335 3355</span></span>
+                      </td>           
+                    </tr>
+                </table>
+            </div>
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+</td><td valign="top" class="w80 fg2" style="width: 80px">
+<![endif]-->
+            <div class="w80 fg2">
+                <table class="w100p fg2">
+                    <tr>
+                      <td valign="top" class="fg2 left size12 color font middle center toLeft">
+                       <span class="color-text1 inline-block middle"><span class="secondary-color middle">
+                          <img class="inline width12 baseline lnh1 size0" src="arrows-button.png" width="12" height="10" alt="" />&nbsp;</span><span class="top">
+                         <a class="color-text1 baseline noDecor" href="https://www.kh.hu/bank">
+                          <span class="color-text1 middle">kh.hu</span>
+                         </a>
+                          &nbsp;&nbsp;</span></span>
+                      </td>        
+                    </tr>
+                </table>
+            </div>
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+</td><td valign="top" class="w109 fg3" style="width: 109px">
+<![endif]-->
+            <div class="w109 fg3">
+                <table class="w100p fg3">
+                    <tr>
+                      <td valign="top" class="w109 fg3 left size12 color font middle">
+                       <span class="toTop8 color-text2 inline-block middle"><span class="color-text2 middle">
+                          <img class="inline width12 baseline lnh1 size0" src="arrows-button.png" width="12" height="10" alt="" />&nbsp;</span>
+                        <a class="color-text2 middle baseline lnh1 noDecor" href="mailto:bank@kh.hu" data-ed-skip-link="true">
+                         <span class="color-text2 middle">bank@kh.hu</span>
+                        </a>
+                         </span>
+                      </td>        
+                    </tr>
+                </table>
+            </div>
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+</td><td valign="top" class="w147 fg4" style="width: 147px">
+<![endif]-->
+            <div class="w147 fg4">
+            <table class="w100p fg4">
+                <tr>
+                  <td valign="top" class="w147 fg4 left bold toLeft toTop10 size12 color font middle">
+                   <span class="nowrap inline-block middle lnh1 toLeft20"><span class="middle">a&nbsp;KBC&nbsp;csoport tagja</span></span>
+                  </td>        
+                </tr>
+            </table>    
+            </div>
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+</td></tr></table>
+<![endif]-->
+            </td>
+          </tr>
+         </table>
+        </td>
+      </tr>
+     </table>
+    </div>
+   </center>
+  </td>
+ </tr>
+ <!-- libid_008_001-ALSO-CONTACT-SOR -- ALSÓ KONTAKT SOR VÉGE -->
+</table>
+<section data-elem="marker" style="height: 60px; line-height: 60px; color: #ffffff; background-color: #1d0642; text-align:center; ">
+  <span style="font-size: 22px; vertical-align: middle;">libid_011_001</span>
+  </section>
+<table class="w100p libid_011_001_DIV">
+<!-- libid_011_001-2OSZL-BALRA-SZOV-JOBBRA-GOMB -- KÉTOSZLOPOS TERMÉK ÁRAJÁNLÓ (JOBB GOMB) JUMP -->
+    <tr>
+      <td class="top10 bottom10 toLeft10 toRight10">
+        <center>
+          <div class="bg" align="center">
+            <table cellspacing="0" cellpadding="0" border="0" align="center" class="outer fg brd-t brd-t--w4">
+              <tr>
+                <td class="size0">
+          <!--[if (gte mso 9)|(IE)|(mso 16)]>
+<table class="outer fg" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr><td valign="top" class="w415 fg applyHeight resetHeight" style="width: 415px">
+<![endif]-->
+                  <div class="w415">
+                    <table class="w100p">
+                      <tr>
+                        <td class="right15 resetPad">
+                          <table class="w100p fg1 applyHeight resetHeight">
+                            <tr>
+                              <td class="font size18 top18 bottom15 color left lnh22 left20 toPad20">
+                                Sed et ut et ut. És ez itt sg.
+                              </td>
+                            </tr>
+                            <tr>
+                              <td class="font size14 color left toJustify left20 toPad20">
+                                Lorem ipsum dolor sit amet
+                              </td>
+                            </tr>
+                            <tr>
+                              <td class="font size30 color bottom15 resetBottom top15 left toRight left20 toPad20">
+                                999 Ft
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+</td><td valign="top" class="w215" style="width: 215px">
+<![endif]-->
+                  <div class="w215">
+                    <table class="w100p">
+                      <tr>
+                        <td class="left15 resetPad">
+                          <table cellspacing="0" cellpadding="0" border="0"
+                            class="w100p fg2 top applyHeight resetHeight">
+                            <tr>
+                              <td class="font size color bottom15 justify toTop15 toBottom15 fg2 top62">
+                                <a href="#">
+                                  <img class="block w100p i200 margin-auto"
+                                    src="https://dummyimage.com/200x45/334d4d/fff/&amp;text=button placeholder"
+                                    alt="" />
+                                </a>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+<!--[if (gte mso 9)|(IE)|(mso 16)]>
+</td></tr></table>
+<![endif]-->
+                </td>
+              </tr>
+            </table>
+          </div>
+        </center>
+      </td>
+    </tr>
+    <!-- libid_011_001-2OSZL-BALRA-SZOV-JOBBRA-GOMB -- KÉTOSZLOPOS TERMÉK ÁRAJÁNLÓ (JOBB GOMB) VÉGE -->
+  </table>
+</div>
+<div class="ed-container">
+<section data-elem="marker" style="height: 60px; line-height: 60px; color: #ffffff; background-color: #1d0642; text-align:center; ">
+  <span style="font-size: 22px; vertical-align: middle;">libid_012_001</span>
+  </section>
+<table class="w100p libid_012_001_DIV">
+<!-- libid_012_001-2OSZL-BALRA-SZOV-JOBBRA-GOMB -- KÉTOSZLOPOS TERMÉK ÁRAJÁNLÓ (JOBB GOMB) JUMP -->
+            <tr>
+              <td class="top10 bottom10 toLeft10 toRight10">
+                <center>
+                  <div class="bg" align="center">
+                    <table cellspacing="0" cellpadding="0" border="0" align="center" class="outer fg brd-t brd-t--w4">
+                      <tr>
+                        <td class="size0">
+                  <!--[if (gte mso 9)|(IE)|(mso 16)]>
+        <table class="outer fg" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr><td valign="top" class="w415 fg applyHeight resetHeight" style="width: 415px">
+        <![endif]-->
+                          <div class="w415">
+                            <table class="w100p">
+                              <tr>
+                                <td class="right15 resetPad">
+                                  <table class="w100p fg1 applyHeight resetHeight">
+                                    <tr>
+                                      <td class="font size18 top18 bottom15 color left lnh22 left20 toPad20">
+                                        Sed et ut et ut. Added extra content 2!
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size14 color left toJustify left20 toPad20">
+                                        Lorem ipsum dolor sit amet
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="font size30 color bottom15 resetBottom top15 left toRight left20 toPad20">
+                                        999 Ft
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+        <!--[if (gte mso 9)|(IE)|(mso 16)]>
+        </td><td valign="top" class="w215" style="width: 215px">
+        <![endif]-->
+                          <div class="w215">
+                            <table class="w100p">
+                              <tr>
+                                <td class="left15 resetPad">
+                                  <table cellspacing="0" cellpadding="0" border="0"
+                                    class="w100p fg2 top applyHeight resetHeight">
+                                    <tr>
+                                      <td class="font size color bottom15 justify toTop15 toBottom15 fg2 top62">
+                                        <a href="#">
+                                          <img class="block w100p i200 margin-auto"
+                                            src="https://dummyimage.com/200x45/334d4d/fff/&amp;text=button placeholder"
+                                            alt="" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+        <!--[if (gte mso 9)|(IE)|(mso 16)]>
+        </td></tr></table>
+        <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </center>
+              </td>
+            </tr>
+            <!-- libid_012_001-2OSZL-BALRA-SZOV-JOBBRA-GOMB -- KÉTOSZLOPOS TERMÉK ÁRAJÁNLÓ (JOBB GOMB) VÉGE -->
+          </table>
+</div>
+<div class="ed-container">
+</div>
+</div>
+</body>
+</html>
