@@ -1,3 +1,9 @@
+
+const yargs = require('yargs');
 const def = require('./gulpfile.js');
 
-def.default();
+module.exports = () => {
+const path = yargs._[0] || null;
+console.log(path);
+
+}

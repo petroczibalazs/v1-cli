@@ -14,21 +14,8 @@ const cleanCSS    = require('gulp-clean-css');
 const replace     = require('gulp-replace');
 const groupMediaQueries = require('gulp-group-css-media-queries');
 const mergeStream = require('merge-stream');
-
-const argv   = require('yargs').argv;
-let {mappa} = argv || null;
-mappa= 'EON';
-const err_msg = `----------  ERROR! WRONG SYNTAX OR NO SUCH DIRECTORY ----------------\nYou should call gulp with this syntax:
-gulp --mappa=mappaNeve - where mappaNeve equals with one of the existing sub-folders.\n ---------------------------------- `;
-
 const fs = require('fs');
-let dir = fs.existsSync('./src/' + mappa);
 
-if(!dir){
-	console.log(err_msg);
-	process.exit();
-	return;
-}
 
 //compile SCSS
 function scss(){
@@ -66,25 +53,37 @@ function scss(){
 
 
 // watch and serve
-function serve(){
+function serve(path = null){
+
+	const err_msg = `----------  ERROR! WRONG SYNTAX OR NO SUCH DIRECTORY ----------------\nYou should call gulp with this syntax:
+	gulp --mappa=mappaNeve - where mappaNeve equals with one of the existing sub-folders.\n ---------------------------------- `;
+	
+
+	let dir = fs.existsSync('./src/' + path);
+	
+	if(!dir){
+		console.log(err_msg);
+		process.exit();
+		return;
+	}
+
+
 console.log('Serve task was called');
-console.log('Current mappa: ' + mappa);
+console.log('Current mappa: ' + dir);
 		  	browserSync.init({
 				  	  server : {
-				  	  				baseDir: './src/' + mappa + '/dist',
+				  	  				baseDir: './src/' + path + '/dist',
 				  	  				index  : 'index.css.html'
 				  	           } 				  	  
 				  	});
 			   scss();
 
-			 watch('./src/' + mappa + '/dist/scss/*.scss', scss);
-		     watch('./src/' + mappa + '/dist/element-groups/**/meta-data/*.scss', scss);
-			 watch('./src/' + mappa + '/dist/*.html').on('change', browserSync.reload);
+			 watch('./src/' + path + '/dist/scss/*.scss', scss);
+		     watch('./src/' + path + '/dist/element-groups/**/meta-data/*.scss', scss);
+			 watch('./src/' + path + '/dist/*.html').on('change', browserSync.reload);
 		  };
 
 // default task
-module.exports = {
-	default: serve
-}
+module.exports = serve;
 
 
