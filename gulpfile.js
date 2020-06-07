@@ -15,12 +15,13 @@ const replace     = require('gulp-replace');
 const groupMediaQueries = require('gulp-group-css-media-queries');
 const mergeStream = require('merge-stream');
 const fs = require('fs');
+let dir = null;
 
 
 //compile SCSS
 function scss(){
 
-	return src(['src/' + mappa + '/dist/scss/*.scss'])
+	return src(['src/' + dir + '/dist/scss/*.scss'])
 	.pipe(sourceMaps.init())
 	.pipe(sass().on('error', sass.logError))
 	.pipe(groupMediaQueries())	
@@ -47,7 +48,7 @@ function scss(){
 	.pipe(replace(/(@media(\s|\n)*IGNORE[^{]*?{)(((?!}[\s\n]*})(\w|\W))*)(})(\s|\n)*(})/g, '$1\n\/*\n<style type="text/css" ignore="1">\n$2$3$6\n</style>\n*\/\n$8'))
 	.pipe(replace(/((?!;)(?!(\s|\n))(?![\/*}]+)(\w|\W))([\s\n]+})/g, '$3;$4'))
 	.pipe(sourceMaps.write('.'))
-	.pipe(dest('src/' + mappa + '/dist/css'))
+	.pipe(dest('src/' + dir + '/dist/css'))
 	.pipe(browserSync.stream())
 };
 
@@ -59,7 +60,7 @@ function serve(path = null){
 	gulp --mappa=mappaNeve - where mappaNeve equals with one of the existing sub-folders.\n ---------------------------------- `;
 	
 
-	let dir = fs.existsSync('./src/' + path);
+	dir = fs.existsSync('./src/' + path);
 	
 	if(!dir){
 		console.log(err_msg);

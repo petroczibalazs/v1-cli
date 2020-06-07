@@ -8,7 +8,9 @@
   },
   "author": "Petróczi Balázs",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "fs-extra": "^9.0.0",
